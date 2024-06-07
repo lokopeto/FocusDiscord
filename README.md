@@ -1,6 +1,7 @@
 Theme to Remove Distractions (Beta)
 
 Removes notifications, unread messages, Hided Chats and More
+
 The colors are good for the eyes
 
 
