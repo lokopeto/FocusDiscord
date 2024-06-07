@@ -1,0 +1,45 @@
+/* Custom Text Input */
+.themedBackground__3a4c0 {
+    background: #e6d8ca;
+    box-shadow: 0px 0px 10px 4px #23211F inset;
+    border-width: 2px;
+    border-color: #141312;
+    border-style: solid;
+    border-top-width: 10px;
+    border-bottom-width: 0px;
+
+    /* Disable this to remove hide animation (1) */
+    max-height: 0px;
+    transition-property: all;
+    transition-duration: 0.8s;
+    transition-timing-function: ease;
+    transition-delay: 2s;
+}
+
+.themedBackground__3a4c0:hover {
+
+    border-width: 2px;
+    border-top-width: 2px;
+    border-bottom-width: 10px;
+    border-radius: 0px;
+
+    /* Disable this to remove hide animation (2) */
+    max-height: 90px;
+    transition-property: all;
+    transition-duration: 0.8s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+}
+
+.textArea_a86690 {
+    color: black;
+    transition-property: all;
+    transition-duration: 0.1s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+}
+
+.separator__666aa:before {
+    height: 100%;
+    border-left: 3px dashed #141312;
+}

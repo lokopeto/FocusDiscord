@@ -1,0 +1,26 @@
+.mentioned_fa6fd2 {
+    border-top-width: 2px;
+    border-bottom-width: 2px;
+    border-color: #2b2724;
+    border-style: solid;
+    background-image: linear-gradient(hsla(30, 6%, 7%, 100%), hsl(30, 6%, 7%, 0%), hsl(30, 6%, 7%, 0%), hsla(30, 6%, 7%, 100%));
+    background-color: transparent;
+
+    transition-property: all;
+    transition-duration: 1s;
+    transition-timing-function: cubic-bezier(0,.89,.32,1.22);
+    transition-delay: 0s;
+}
+
+.mentioned_fa6fd2:hover {
+    border-top-width: 2px;
+    border-bottom-width: 2px;
+    border-color: #2b2724;
+    border-style: solid;
+    background-color: black;
+
+    transition-property: all;
+    transition-duration: 1s;
+    transition-timing-function: cubic-bezier(0,.89,.32,1.22);
+    transition-delay: 0s;
+}
